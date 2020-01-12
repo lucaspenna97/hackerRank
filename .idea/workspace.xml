@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HackerRank:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="765087e3-f42b-401b-b0ae-b0d9a1e24d33" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V9zo7UDhETenGqJOavD3N8V5cb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.15402299" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\hackerRank-master\src" />
+      <recent name="C:\Users\user\Desktop\hackerRank-master\src\META-INF" />
+      <recent name="C:\Users\Lucas\IdeaProjects\HackerRank\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HackerRank">
+    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.HackerRank" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilitarioRenameCFe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UtilitarioRenameCFe" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HackerRank" />
+        <item itemvalue="Application.UtilitarioRenameCFe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="765087e3-f42b-401b-b0ae-b0d9a1e24d33" name="Default Changelist" comment="" />
+      <created>1576680270672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576680270672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577195138628">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1577195138628" />
+    <state x="445" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1577983567537">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1577983567537" />
+    <state x="369" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577195790856">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="369" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.984@0.0.1280.984" timestamp="1577195790856" />
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578498803240">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1578498803240" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1577195292679">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577195292679" />
+    <state width="1237" height="350" key="GridCell.Tab.0.bottom" timestamp="1578488205161">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="350" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1578488205161" />
+    <state width="1237" height="350" key="GridCell.Tab.0.center" timestamp="1578488205161">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="350" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1578488205161" />
+    <state width="1237" height="350" key="GridCell.Tab.0.left" timestamp="1578488205161">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="350" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1578488205161" />
+    <state width="1237" height="350" key="GridCell.Tab.0.right" timestamp="1578488205161">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="350" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1578488205161" />
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom" timestamp="1578485299207">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1578485299207" />
+    <state width="1237" height="325" key="GridCell.Tab.1.center" timestamp="1578485299207">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1578485299207" />
+    <state width="1237" height="325" key="GridCell.Tab.1.left" timestamp="1578485299207">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1578485299207" />
+    <state width="1237" height="325" key="GridCell.Tab.1.right" timestamp="1578485299207">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1578485299207" />
+    <state x="120" y="66" key="SettingsEditor" timestamp="1577195811662">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="66" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1577195811662" />
+    <state width="648" height="500" key="XDebugger.FullValuePopup" timestamp="1578072415763">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="648" height="500" key="XDebugger.FullValuePopup/0.0.1280.984@0.0.1280.984" timestamp="1578072415763" />
+    <state x="335" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1578417957235">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="315" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1578417957235" />
+    <state x="296" y="226" key="run.anything.popup" timestamp="1576859673184">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1576859673184" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1578068428625">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1578068428625" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/Java.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
